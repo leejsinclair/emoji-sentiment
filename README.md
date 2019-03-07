@@ -22,3 +22,11 @@ const result = emojiSentiment(text);
     unicode: '1f62d',
     sentiment: -0.093 } ]
 ```
+
+## Test
+
+Close to you local development enviornment:
+
+```
+npm test
+```

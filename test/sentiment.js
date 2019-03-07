@@ -10,6 +10,9 @@ const tests = [
     },
     {
         sentence: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. 😍 Aenean vulputate 😷 sem non vulputate varius.", sentiment: 0.678, number: 2
+    },
+    {
+        sentence: "😭 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vulputate sem non vulputate varius.", sentiment: -0.093, number: 1
     }
 ];
 
